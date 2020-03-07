@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LIUYUEFEI-PC</Machine>
+    <WindowsUser>liu-yuefei</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>7AE6269403E41ACFB153E76ADA272EBAF03F254B3E13240E35DEE9F958BA370A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8a81bff2-864d-45e9-9899-a1e032406a63_1.0.0.8_neutral__4k5me9q347z7p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8a81bff2-864d-45e9-9899-a1e032406a63_4k5me9q347z7p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8a81bff2-864d-45e9-9899-a1e032406a63</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Allan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.8</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-04T03:40:18.833</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\bin\Debug\SurgerUI.Sweet.exe">
+      <PackagePath>SurgerUI.Sweet.exe</PackagePath>
+      <Modified>2013-02-04T03:40:18.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\bin\Debug\SurgerUI.Sweet.pdb">
+      <PackagePath>SurgerUI.Sweet.pdb</PackagePath>
+      <Modified>2013-02-04T03:40:18.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\Fonts\bariolregular.ttf">
+      <PackagePath>Fonts\bariolregular.ttf</PackagePath>
+      <Modified>2013-02-04T03:28:29.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\Fonts\hye2gjm.ttf">
+      <PackagePath>Fonts\hye2gjm.ttf</PackagePath>
+      <Modified>2013-02-04T03:28:29.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\LICENSE.txt">
+      <PackagePath>LICENSE.txt</PackagePath>
+      <Modified>2013-02-04T03:28:28.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-04T03:28:28.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-23T09:38:48.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-04T03:28:28.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-23T09:38:48.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-02-04T03:28:28.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-01-23T09:38:48.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\bin\Debug\Common\SweetStyles.xaml">
+      <PackagePath>Common\SweetStyles.xaml</PackagePath>
+      <Modified>2013-02-04T03:28:29.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\bin\Debug\Fonts\FontStyles.xaml">
+      <PackagePath>Fonts\FontStyles.xaml</PackagePath>
+      <Modified>2013-02-04T03:28:29.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-02-04T03:28:28.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\bin\Debug\SampleData\GridviewSampleDataSource\GridviewSampleDataSource.xaml">
+      <PackagePath>SampleData\GridviewSampleDataSource\GridviewSampleDataSource.xaml</PackagePath>
+      <Modified>2013-01-23T09:38:48.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Sweet\SurgerUI.Sweet\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-04T03:40:18.739</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

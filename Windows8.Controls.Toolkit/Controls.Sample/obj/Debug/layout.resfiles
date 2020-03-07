@@ -1,0 +1,16 @@
+Assets\DarkGray.png
+Assets\LightGray.png
+Assets\Logo.png
+Assets\MediumGray.png
+Assets\Sample\IconFacebook.png
+Assets\Sample\IconIn.png
+Assets\Sample\IconTwitter.png
+Assets\SmallLogo.png
+Assets\SplashScreen.png
+Assets\StoreLogo.png
+App.xaml
+Common\StandardStyles.xaml
+HubTileTest.xaml
+KnobTest.xaml
+RangeSliderTest.xaml
+StepIndicatorTest.xaml

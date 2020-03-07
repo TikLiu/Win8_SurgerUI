@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="Controls.Sample.StepIndicatorTest"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Controls.Sample"
+    xmlns:Toolkit="using:Controls.Layout.Toolkit" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Grid Style="{StaticResource LayoutRootStyle}">
+        <Toolkit:StepIndicator Grid.Row="1" Margin="20,0,0,0" >
+            <Toolkit:StepIndicator.Template>
+                <ControlTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Toolkit:Step  Text="1" IsInconformity="True"></Toolkit:Step>
+                        <Toolkit:Step IsSelected="True" Text="2" ></Toolkit:Step>
+                        <Toolkit:Step Text="3"/>
+                        <Toolkit:Step Text="4"></Toolkit:Step>
+                    </StackPanel>
+                </ControlTemplate>
+            </Toolkit:StepIndicator.Template>
+        </Toolkit:StepIndicator>
+       
+    </Grid>
+</Page>
+

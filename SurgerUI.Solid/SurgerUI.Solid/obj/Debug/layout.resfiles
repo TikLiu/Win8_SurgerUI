@@ -1,0 +1,13 @@
+Assets\Logo.png
+Assets\SmallLogo.png
+Assets\SplashScreen.png
+Assets\StoreLogo.png
+App.xaml
+Common\SolidStyles.xaml
+Common\StandardStyles.xaml
+Fonts\FontStyles.xaml
+MainPage.xaml
+SampleData\GridviewSampleDataSource\GridviewSampleDataSource.xaml
+Fonts\bariolregular.ttf
+Fonts\hye2gjm.ttf
+LICENSE.txt

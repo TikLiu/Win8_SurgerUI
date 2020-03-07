@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LIUYUEFEI-PC</Machine>
+    <WindowsUser>liu-yuefei</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\ControlsDemo.exe">
+      <PackagePath>ControlsDemo.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\ControlsDemo.pdb">
+      <PackagePath>ControlsDemo.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\Lib\Controls.Toolkit.dll">
+      <PackagePath>Controls.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\redsafilogo.png">
+      <PackagePath>Images\redsafilogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\001.jpg">
+      <PackagePath>Images\001.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\002.jpg">
+      <PackagePath>Images\002.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\003.jpg">
+      <PackagePath>Images\003.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\004.jpg">
+      <PackagePath>Images\004.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\005.jpg">
+      <PackagePath>Images\005.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\006.jpg">
+      <PackagePath>Images\006.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\007.jpg">
+      <PackagePath>Images\007.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\008.jpg">
+      <PackagePath>Images\008.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\009.jpg">
+      <PackagePath>Images\009.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\010.jpg">
+      <PackagePath>Images\010.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\011.jpg">
+      <PackagePath>Images\011.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\012.jpg">
+      <PackagePath>Images\012.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\013.jpg">
+      <PackagePath>Images\013.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\014.jpg">
+      <PackagePath>Images\014.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\015.jpg">
+      <PackagePath>Images\015.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\MasonryDemo.xaml">
+      <PackagePath>MasonryDemo.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\SemanticZoomOutDemo.xaml">
+      <PackagePath>SemanticZoomOutDemo.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\Themes\generic.xaml">
+      <PackagePath>Themes\generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

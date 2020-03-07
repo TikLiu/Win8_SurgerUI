@@ -1,0 +1,9 @@
+Controls.Toolkit\Common\DateTimeToolkit\AmOrPm.xaml
+Controls.Toolkit\Common\DateTimeToolkit\LocalTimeItem.xaml
+Controls.Toolkit\Common\DateTimeToolkit\LocalTimeToolKit.xaml
+Controls.Toolkit\Common\DateTimeToolkit\TimeItem.xaml
+Controls.Toolkit\Common\DateTimeToolkit\TimerToolkit.xaml
+Controls.Toolkit\Themes\generic.xaml
+Controls.Toolkit\Icons\back.png
+Controls.Toolkit\Icons\next.png
+Controls.Toolkit\Icons\transport.play.png

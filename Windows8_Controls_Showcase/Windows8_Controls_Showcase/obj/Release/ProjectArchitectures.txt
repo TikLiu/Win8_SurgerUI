@@ -1,0 +1,2 @@
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\Controls.Toolkit.csproj;neutral
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Windows8_Controls_Showcase.csproj;neutral

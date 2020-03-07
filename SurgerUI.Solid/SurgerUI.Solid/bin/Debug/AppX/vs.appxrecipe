@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LIUYUEFEI-PC</Machine>
+    <WindowsUser>liu-yuefei</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>4B24F8A1014CC1F99ABB91CF1F33D61E5F0774CA737A219E516FD9816D55B20B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>464b011c-7ee3-4e5d-b161-b5e11f704dee_1.0.0.3_neutral__1b7q5sa4bwdpa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>464b011c-7ee3-4e5d-b161-b5e11f704dee_1b7q5sa4bwdpa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>464b011c-7ee3-4e5d-b161-b5e11f704dee</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Developer</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.3</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-04T03:40:56.139</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\bin\Debug\SurgerUI.Solid.exe">
+      <PackagePath>SurgerUI.Solid.exe</PackagePath>
+      <Modified>2013-02-04T03:40:55.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\bin\Debug\SurgerUI.Solid.pdb">
+      <PackagePath>SurgerUI.Solid.pdb</PackagePath>
+      <Modified>2013-02-04T03:40:55.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\Fonts\bariolregular.ttf">
+      <PackagePath>Fonts\bariolregular.ttf</PackagePath>
+      <Modified>2013-02-04T03:28:30.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\Fonts\hye2gjm.ttf">
+      <PackagePath>Fonts\hye2gjm.ttf</PackagePath>
+      <Modified>2013-02-04T03:28:30.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\LICENSE.txt">
+      <PackagePath>LICENSE.txt</PackagePath>
+      <Modified>2013-02-04T03:28:29.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-04T03:28:29.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-23T09:38:48.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-04T03:28:29.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-23T09:38:48.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-02-04T03:28:29.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\bin\Debug\Common\SolidStyles.xaml">
+      <PackagePath>Common\SolidStyles.xaml</PackagePath>
+      <Modified>2013-02-04T03:28:30.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-01-23T09:38:48.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\bin\Debug\Fonts\FontStyles.xaml">
+      <PackagePath>Fonts\FontStyles.xaml</PackagePath>
+      <Modified>2013-02-04T03:28:30.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-02-04T03:28:29.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\bin\Debug\SampleData\GridviewSampleDataSource\GridviewSampleDataSource.xaml">
+      <PackagePath>SampleData\GridviewSampleDataSource\GridviewSampleDataSource.xaml</PackagePath>
+      <Modified>2013-02-04T03:28:30.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\SurgerUI.Solid\SurgerUI.Solid\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-04T03:40:56.116</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

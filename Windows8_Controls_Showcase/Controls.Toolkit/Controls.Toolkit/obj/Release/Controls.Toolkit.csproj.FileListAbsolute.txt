@@ -1,0 +1,14 @@
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\bin\Release\Controls.Toolkit.dll
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\bin\Release\Controls.Toolkit.pdb
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\bin\Release\Controls.Toolkit.pri
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\obj\Release\Themes\generic.g.i.cs
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\obj\Release\Themes\generic.g.cs
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\obj\Release\XamlTypeInfo.g.cs
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\obj\Release\Themes\generic.xaml
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\obj\Release\Controls.Toolkit.dll
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\obj\Release\Controls.Toolkit.pdb
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\obj\Release\priconfig.xml
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\obj\Release\layout.resfiles
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\obj\Release\resources.resfiles
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\obj\Release\pri.resfiles
+H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Controls.Toolkit\Controls.Toolkit\obj\Release\LanguageQualifiers.txt

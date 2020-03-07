@@ -1,0 +1,67 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Controls.CascadingMenu">
+
+    <Style TargetType="local:CascadingMenu">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="local:CascadingMenu">
+                    <Border
+                        Background="{TemplateBinding Background}"
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="{TemplateBinding BorderThickness}">
+                        <StackPanel>
+                            <GridView x:Name="MainMenu" IsSynchronizedWithCurrentItem="False" ItemsSource="{TemplateBinding  ItemsSource}">
+                                <GridView.ItemTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Foreground="Black"/>
+                                    </DataTemplate>
+                                </GridView.ItemTemplate>
+                                <GridView.GroupStyle>
+                                    <GroupStyle>
+                                        <GroupStyle.HeaderTemplate>
+                                            <DataTemplate>
+                                                <Button x:Name="button_slect" BorderThickness="0" Foreground="Black"/>
+                                            </DataTemplate>
+                                        </GroupStyle.HeaderTemplate>
+                                        <GroupStyle.Panel>
+                                            <ItemsPanelTemplate>
+                                                <VariableSizedWrapGrid Orientation="Horizontal" Margin="0,0,80,0"/>
+                                            </ItemsPanelTemplate>
+                                        </GroupStyle.Panel>
+                                    </GroupStyle>
+                                </GridView.GroupStyle>
+                                <GridView.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <VirtualizingStackPanel Orientation="Horizontal"/>
+                                    </ItemsPanelTemplate>
+                                </GridView.ItemsPanel>
+                            </GridView>
+                            <StackPanel x:Name="Container" Visibility="Collapsed">
+                                <StackPanel.Resources>
+                                    <ItemsPanelTemplate x:Key="Ip_gridview">
+                                        <VirtualizingStackPanel Orientation="Horizontal"/>
+                                    </ItemsPanelTemplate>
+                                </StackPanel.Resources>
+                            </StackPanel>
+                            <GridView x:Name="UnfoldButton" SelectionMode="None" IsItemClickEnabled="True" ItemsSource="{TemplateBinding  ItemsSource}">
+                                <GridView.ItemTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Foreground="Black">unfold</TextBlock>
+                                    </DataTemplate>
+                                </GridView.ItemTemplate>
+                                <GridView.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <VirtualizingStackPanel Orientation="Horizontal"/>
+                                    </ItemsPanelTemplate>
+                                </GridView.ItemsPanel>
+                            </GridView>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>
+

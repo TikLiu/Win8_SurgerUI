@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LIUYUEFEI-PC</Machine>
+    <WindowsUser>liu-yuefei</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>96A1FD22A008CDF8896199F88CB26A8BFE325C5E65CB8EA1B2419014E02EE157</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>43017881-a0eb-4ef9-b086-a23493cab4fa_1.0.0.0_neutral__f7g8hm1jjnm86</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>43017881-a0eb-4ef9-b086-a23493cab4fa_f7g8hm1jjnm86!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>43017881-a0eb-4ef9-b086-a23493cab4fa</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=liu-yuefei</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-27T06:55:56.260</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\ControlsDemo.exe">
+      <PackagePath>ControlsDemo.exe</PackagePath>
+      <Modified>2013-02-27T08:09:13.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\ControlsDemo.pdb">
+      <PackagePath>ControlsDemo.pdb</PackagePath>
+      <Modified>2013-02-27T08:09:13.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\Lib\Controls.Toolkit.dll">
+      <PackagePath>Controls.Toolkit.dll</PackagePath>
+      <Modified>2013-02-27T06:25:44.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\redsafilogo.png">
+      <PackagePath>Images\redsafilogo.png</PackagePath>
+      <Modified>2013-02-27T06:18:02.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\001.jpg">
+      <PackagePath>Images\001.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\002.jpg">
+      <PackagePath>Images\002.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\003.jpg">
+      <PackagePath>Images\003.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\004.jpg">
+      <PackagePath>Images\004.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\005.jpg">
+      <PackagePath>Images\005.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\006.jpg">
+      <PackagePath>Images\006.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\007.jpg">
+      <PackagePath>Images\007.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\008.jpg">
+      <PackagePath>Images\008.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\009.jpg">
+      <PackagePath>Images\009.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\010.jpg">
+      <PackagePath>Images\010.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\011.jpg">
+      <PackagePath>Images\011.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\012.jpg">
+      <PackagePath>Images\012.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\013.jpg">
+      <PackagePath>Images\013.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\014.jpg">
+      <PackagePath>Images\014.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\Images\015.jpg">
+      <PackagePath>Images\015.jpg</PackagePath>
+      <Modified>2013-02-27T06:18:02.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-02-27T06:13:29.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T08:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\MasonryDemo.xaml">
+      <PackagePath>MasonryDemo.xaml</PackagePath>
+      <Modified>2013-02-27T06:51:25.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\SemanticZoomOutDemo.xaml">
+      <PackagePath>SemanticZoomOutDemo.xaml</PackagePath>
+      <Modified>2013-02-27T08:08:24.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\Themes\generic.xaml">
+      <PackagePath>Themes\generic.xaml</PackagePath>
+      <Modified>2013-02-27T06:55:40.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\ControlsDemo\ControlsDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-27T06:55:56.200</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

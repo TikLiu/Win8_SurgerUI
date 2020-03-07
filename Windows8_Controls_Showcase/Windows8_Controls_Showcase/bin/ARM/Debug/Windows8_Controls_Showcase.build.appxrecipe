@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LIUYUEFEI-PC</Machine>
+    <WindowsUser>liu-yuefei</WindowsUser>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\Windows8_Controls_Showcase.exe">
+      <PackagePath>Windows8_Controls_Showcase.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\Windows8_Controls_Showcase.pdb">
+      <PackagePath>Windows8_Controls_Showcase.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.CascadingMenu\bin\ARM\Debug\Controls.CascadingMenu.pdb">
+      <PackagePath>Controls.CascadingMenu.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Input.Toolkit\bin\ARM\Debug\Controls.Input.Toolkit.pdb">
+      <PackagePath>Controls.Input.Toolkit.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Layout.Toolkit\bin\ARM\Debug\Controls.Layout.Toolkit.pdb">
+      <PackagePath>Controls.Layout.Toolkit.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Toolkit\bin\ARM\Debug\Controls.Toolkit.pdb">
+      <PackagePath>Controls.Toolkit.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.CascadingMenu\bin\ARM\Debug\Controls.CascadingMenu.dll">
+      <PackagePath>Controls.CascadingMenu.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Input.Toolkit\bin\ARM\Debug\Controls.Input.Toolkit.dll">
+      <PackagePath>Controls.Input.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Layout.Toolkit\bin\ARM\Debug\Controls.Layout.Toolkit.dll">
+      <PackagePath>Controls.Layout.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Toolkit\bin\ARM\Debug\Controls.Toolkit.dll">
+      <PackagePath>Controls.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Assets\AppbarHint.png">
+      <PackagePath>Assets\AppbarHint.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Assets\Sample\IconFacebook.png">
+      <PackagePath>Assets\Sample\IconFacebook.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Assets\Sample\IconIn.png">
+      <PackagePath>Assets\Sample\IconIn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Assets\Sample\IconTwitter.png">
+      <PackagePath>Assets\Sample\IconTwitter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Assets\PageTitle.png">
+      <PackagePath>Assets\PageTitle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\1.png">
+      <PackagePath>SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\2.png">
+      <PackagePath>SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\3.png">
+      <PackagePath>SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\4.png">
+      <PackagePath>SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\5.png">
+      <PackagePath>SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\6.png">
+      <PackagePath>SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\7.png">
+      <PackagePath>SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\8.png">
+      <PackagePath>SampleData\MainHubSampleDataSource\MainHubSampleDataSource_Files\8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Toolkit\Icons\back.png">
+      <PackagePath>Controls.Toolkit\Icons\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Toolkit\Icons\next.png">
+      <PackagePath>Controls.Toolkit\Icons\next.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Toolkit\Icons\transport.play.png">
+      <PackagePath>Controls.Toolkit\Icons\transport.play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Assets\Sample\background1.jpg">
+      <PackagePath>Assets\Sample\background1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Fonts\bariolregular.ttf">
+      <PackagePath>Fonts\bariolregular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Fonts\hye2gjm.ttf">
+      <PackagePath>Fonts\hye2gjm.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\ControlsSample\CascadingMenuTest.xaml">
+      <PackagePath>ControlsSample\CascadingMenuTest.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\ControlsSample\ContentTextBoxTest.xaml">
+      <PackagePath>ControlsSample\ContentTextBoxTest.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\ControlsSample\DateTimeTest.xaml">
+      <PackagePath>ControlsSample\DateTimeTest.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\ControlsSample\KnobTest.xaml">
+      <PackagePath>ControlsSample\KnobTest.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\ControlsSample\MasonryTest.xaml">
+      <PackagePath>ControlsSample\MasonryTest.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\ControlsSample\RangeSliderTest.xaml">
+      <PackagePath>ControlsSample\RangeSliderTest.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\ControlsSample\SemanticZoomOutTest.xaml">
+      <PackagePath>ControlsSample\SemanticZoomOutTest.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\ControlsSample\StepIndicatorTest.xaml">
+      <PackagePath>ControlsSample\StepIndicatorTest.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\Fonts\FontStyles.xaml">
+      <PackagePath>Fonts\FontStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\SampleData\MainHubSampleDataSource\MainHubSampleDataSource.xaml">
+      <PackagePath>SampleData\MainHubSampleDataSource\MainHubSampleDataSource.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\Views\MainHub.xaml">
+      <PackagePath>Views\MainHub.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.CascadingMenu\bin\ARM\Debug\Themes\Generic.xaml">
+      <PackagePath>Controls.CascadingMenu\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Input.Toolkit\bin\ARM\Debug\Themes\generic.xaml">
+      <PackagePath>Controls.Input.Toolkit\Themes\generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Layout.Toolkit\bin\ARM\Debug\Themes\generic.xaml">
+      <PackagePath>Controls.Layout.Toolkit\Themes\generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Toolkit\bin\ARM\Debug\Common\DateTimeToolkit\AmOrPm.xaml">
+      <PackagePath>Controls.Toolkit\Common\DateTimeToolkit\AmOrPm.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Toolkit\bin\ARM\Debug\Common\DateTimeToolkit\LocalTimeItem.xaml">
+      <PackagePath>Controls.Toolkit\Common\DateTimeToolkit\LocalTimeItem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Toolkit\bin\ARM\Debug\Common\DateTimeToolkit\LocalTimeToolKit.xaml">
+      <PackagePath>Controls.Toolkit\Common\DateTimeToolkit\LocalTimeToolKit.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Toolkit\bin\ARM\Debug\Common\DateTimeToolkit\TimeItem.xaml">
+      <PackagePath>Controls.Toolkit\Common\DateTimeToolkit\TimeItem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Toolkit\bin\ARM\Debug\Common\DateTimeToolkit\TimerToolkit.xaml">
+      <PackagePath>Controls.Toolkit\Common\DateTimeToolkit\TimerToolkit.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.Toolkit\bin\ARM\Debug\Themes\generic.xaml">
+      <PackagePath>Controls.Toolkit\Themes\generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8_Controls_Showcase\Windows8_Controls_Showcase\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

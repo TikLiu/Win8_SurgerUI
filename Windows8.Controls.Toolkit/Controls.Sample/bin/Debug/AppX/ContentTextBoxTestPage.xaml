@@ -1,0 +1,18 @@
+﻿<Page xmlns:ClassLibrary1="using:ClassLibrary1" 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Controls.Sample"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Controls="using:Windows.UI.Xaml.Controls"
+    xmlns:Toolkit="using:Controls.Input.Toolkit"
+    xmlns:Masonry="using:Controls.Layout.Toolkit.Masonry"
+    xmlns:Toolkit1="using:Controls.Layout.Toolkit"
+    x:Class="Controls.Sample.ContentTextBoxTestPage"
+    mc:Ignorable="d">
+
+    <Grid >
+        <Toolkit1:MasonryPanel x:Name="mp" Margin="50,50,0,50"  ElementInterval="20" LayoutType="Row4" LargeImageNumber="1" MaxnumHeight="1600" MiddleImageNumber="2"/>
+    </Grid>
+</Page>
+

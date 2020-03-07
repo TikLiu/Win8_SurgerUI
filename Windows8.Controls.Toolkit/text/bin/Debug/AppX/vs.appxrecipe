@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LIUYUEFEI-PC</Machine>
+    <WindowsUser>liu-yuefei</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>66CDCFEDC3A17DA87EF0FBFF50382043E1522FB74EAA72482B30A85892607D1F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9f48373f-cdbf-4344-84e0-a2525ea09cab_1.0.0.0_neutral__bdhvnsbrs8pjg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9f48373f-cdbf-4344-84e0-a2525ea09cab_bdhvnsbrs8pjg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9f48373f-cdbf-4344-84e0-a2525ea09cab</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ft213_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\text\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-31T08:24:05.635</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\text\bin\Debug\text.exe">
+      <PackagePath>text.exe</PackagePath>
+      <Modified>2013-02-04T03:33:05.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\text\bin\Debug\text.pdb">
+      <PackagePath>text.pdb</PackagePath>
+      <Modified>2013-02-04T03:33:05.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.CascadingMenu\bin\Debug\Controls.CascadingMenu.pdb">
+      <PackagePath>Controls.CascadingMenu.pdb</PackagePath>
+      <Modified>2013-02-04T03:32:44.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.CascadingMenu\bin\Debug\Controls.CascadingMenu.dll">
+      <PackagePath>Controls.CascadingMenu.dll</PackagePath>
+      <Modified>2013-02-04T03:32:44.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\text\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-23T02:40:09.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\text\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-23T02:40:09.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\text\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-23T02:40:09.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\text\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-23T02:40:09.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\text\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-01-23T02:40:09.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\text\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-01-23T02:40:09.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\text\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-02-04T03:33:04.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\Controls.CascadingMenu\bin\Debug\Themes\Generic.xaml">
+      <PackagePath>Controls.CascadingMenu\Themes\Generic.xaml</PackagePath>
+      <Modified>2013-01-30T10:41:42.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\MyWork1\MSFT_W8Controls\06_SourceCode\Windows8.Controls.Toolkit\text\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-01-30T10:43:08.219</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
